@@ -1,4 +1,4 @@
-package array;
+package arrayfifteen;
 
 public class reversesearchhh {
     public static void reverse (int numbers[]){

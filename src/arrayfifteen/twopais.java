@@ -1,4 +1,4 @@
-package array;
+package arrayfifteen;
 
 public class twopais {
     public static void printpairs(int numbers []){

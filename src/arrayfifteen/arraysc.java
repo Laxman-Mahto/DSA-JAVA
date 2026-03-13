@@ -1,4 +1,4 @@
-package array;
+package arrayfifteen;
 
 public class arraysc {
     public static int binarySearch(int numbers[], int key){
