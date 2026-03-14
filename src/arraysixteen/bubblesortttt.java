@@ -3,9 +3,9 @@ package arraysixteen;
 public class bubblesortttt {
     public static void bubblesort(int arr[]){
         // ekbaar notes dekho acche se
-        for(int turn=0;turn<arr.length-1;turn ++){
+        for(int turn=0;turn<arr.length-1;turn ++){ //outer loop
 
-            for(int j=0;j<arr.length-1-turn;j++){]
+            for(int j=0;j<arr.length-1-turn;j++){ //inner loop
 
                 if(arr[j]>arr[j+1]){
 
@@ -22,7 +22,7 @@ public class bubblesortttt {
     public static void printarr(int arr[]){
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i] + " ");
-            // only print...for to get the arr only in ore line
+            // only print...for to get the arr only in arr
         }
         System.out.println();
     }
