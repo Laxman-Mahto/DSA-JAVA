@@ -10,10 +10,10 @@ public class FIRENDSPAIRING {
         //single
         int fnm1= f(n-1);
         //pair
-        int fnm2= f(n-2);
+        int fnm2 = f(n-2);
         int pairways = (n-1) * fnm2;
         //totalways
-        int totalways= fnm1 + pairways;
+        int totalways = fnm1 + pairways;
         return totalways;
 
     }
