@@ -63,4 +63,4 @@ public class dc1 {
         printArr(arr);
 
     }
-}.
+}
