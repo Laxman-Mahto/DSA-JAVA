@@ -1,5 +1,5 @@
 package DivideConquer;
-
+/// d and c
 public class quicksortt {
     public static void printArr(int arr[]) {
         for(int i=0 ;i<arr.length;i++){
@@ -18,7 +18,7 @@ public class quicksortt {
         quicksort(arr,si,pIdx-1); //left side
         quicksort(arr,ei,pIdx+1);//right side
     }
-    //now fucntion or partition
+    //now fucntion of partition
     public static int partition(int arr[],int si,int ei) {
         int pivot = ei; //hamne last ko mana tha uper remember this
         int i=si-1;
