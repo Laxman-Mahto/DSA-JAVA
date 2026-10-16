@@ -22,3 +22,4 @@ public class FIRENDSPAIRING {
     }
 
 }
+//HERE WE ARE USING THE FRIEND PAIRING
