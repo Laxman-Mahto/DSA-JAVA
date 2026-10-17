@@ -22,4 +22,4 @@ public class FIRENDSPAIRING {
     }
 
 }
-//HERE WE ARE USING THE FRIEND PAIRINGdfgdfgfhfhfhfhdf fzddsdgegegegeg
+// so here wht we are doing iswe are dprinngh  efirnd oairn
