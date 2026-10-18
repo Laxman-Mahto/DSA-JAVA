@@ -22,4 +22,5 @@ public class FIRENDSPAIRING {
     }
 
 }
-// so here wht we are doing iswe are dprinngh  efirnd oairn
+// so this is the example od thw frinds
+//friends pairing okie and we completeddddd
