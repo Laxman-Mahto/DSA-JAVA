@@ -23,4 +23,4 @@ public class FIRENDSPAIRING {
 
 }
 // so this is the example od thw frinds
-//friends pairing okie and we completeddddd
+//friends pairing okie and we completedddddfhfhhhgfnfgbf
