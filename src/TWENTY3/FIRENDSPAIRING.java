@@ -22,5 +22,3 @@ public class FIRENDSPAIRING {
     }
 
 }
-//dklgndghjafb dsn xmvnksfkfwf b awj.fk
-//vnjsdgjdsgnkp s dfjbdfjnOGFDRGDRGH
